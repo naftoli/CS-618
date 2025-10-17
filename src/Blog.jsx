@@ -19,7 +19,7 @@ export function Blog() {
 
   return (
     <>
-      <h1>My Blog</h1>
+      <h1>My Blog Posts</h1>
       <div style={{ padding: 8 }}>
         <CreatePost />
         <br />
